@@ -1,0 +1,47 @@
+{
+  "budget": 13931.875,
+  "name": "U Borisa",
+  "beverages": {
+    "wine, price:213.42": 0,
+    "beer, price:45.8": 8
+  },
+  "vipCustomers": [
+    {
+      "name": "Gram Potter",
+      "balance": 23.1,
+      "type": "Customer"
+    },
+    {
+      "name": "Alex Boyko",
+      "balance": 55.036,
+      "type": "Customer"
+    }
+  ],
+  "suppliers": [
+    {
+      "availableBeverages": {
+        "beer, price:45.8": 45.8,
+        "wine, price:213.42": 213.42
+      },
+      "name": "Dennis Ritchie",
+      "balance": 0.0,
+      "type": "Supplier"
+    },
+    {
+      "availableBeverages": {
+        "beer, price:45.8": 34.67
+      },
+      "name": "Alex Bale",
+      "balance": 138.68,
+      "type": "Supplier"
+    },
+    {
+      "availableBeverages": {
+        "beer, price:45.8": 45.8
+      },
+      "name": "Harry Jenkins",
+      "balance": 0.0,
+      "type": "Supplier"
+    }
+  ]
+}
